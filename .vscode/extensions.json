@@ -1,8 +1,7 @@
 {
-	"recommendations": [
-		"tamasfe.even-better-toml",
-		"ms-python.black-formatter",
-		"ms-python.isort"
-	],
-	"unwantedRecommendations": []
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
